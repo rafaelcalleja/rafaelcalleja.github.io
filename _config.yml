@@ -4,4 +4,4 @@ markdown: redcarpet
 redcarpet:
   extensions: [smart]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
