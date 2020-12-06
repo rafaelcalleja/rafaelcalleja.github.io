@@ -3,3 +3,5 @@ permalink: pretty
 markdown: redcarpet
 redcarpet:
   extensions: [smart]
+
+theme: jekyll-theme-cayman
